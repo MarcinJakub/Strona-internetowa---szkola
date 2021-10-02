@@ -76,4 +76,17 @@ ol.chapters > li > ul
 ol.chapters > li > ul > li 
 {
 	margin: 0px;
+	color: #485b3b;
+}
+
+.cz
+{
+	color: black;
+}
+
+
+.slajd
+{
+	padding: 20px 40px;
+	text-align: justify;
 }
