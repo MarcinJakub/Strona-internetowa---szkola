@@ -5,7 +5,6 @@ body
 	margin: 0px;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
-	
 }
 
 a:link
@@ -15,7 +14,6 @@ a:link
 }
 
 a:visited
-
 {
 	color: black;
 	text-decoration: none;
@@ -33,10 +31,10 @@ a:active
 	text-decoration: none;
 }
 
-#logo
+#nagłówek
 {
 	width: 100%;
-	height: 50px;
+	height: 100px;
 	background-color: #485b3b;
 	font-size: 36px;
 	color: white;
@@ -50,6 +48,12 @@ a:active
 	-2px 2px 0 #33402a,
 	-2px -2px 0 #33402a,
 	2px -2px 0 #33402a;
+}
+
+#logo
+{
+	text-align: left;
+	margin-left: 15px;
 }
 
 #container
@@ -68,6 +72,15 @@ a:active
 {
 	width: 780px;
 	padding-left: 100px;
+}
+
+#stopka
+{
+	width: 100%;
+	height: 70px;
+	background-color: #485b3b;
+	color: white;
+	border-top: 2px solid #33402a;
 }
 
 ol.chapters
